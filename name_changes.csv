@@ -1,0 +1,39 @@
+id;previous_id;name_from;name_to;year;month
+1;;Open SQL; ABAP SQL;2019;10
+2;;HANA Cloud Platform;SAP Cloud Platform;2017;2
+3;;SAP HCP Integration Services (HCI);SAP Cloud Platform Integration;2017;10
+4;;SAP Mobile Platform;HCPms;;
+5;4;HCPms;SAP Cloud Platform Mobile Services;;
+6;5;SAP Cloud Platform Mobile Services;SAP Mobile Services;;
+7;;HANA XS;HANA XSA;;
+8;;Splash;BUILD;;
+9;;UI development toolkit for HTML5;SAPUI5;;
+10;;SAP Visual Intelligence;SAP Lumira;;
+11;;SAP Developer Network;SAP Community Network;;
+12;11;SAP Community Network;SAP Community;;
+13;;Recast.AI;SAP Conversational AI;;
+14;;Appbuilder;River RDE;;
+15;14;River RDE;WebIDE;;
+16;15;WebIDE;Web IDE MultiCloud Version;;
+17;16;Web IDE MultiCloud Version;SAP Web IDE FullStack;;
+18;;HANA Cloud Connector;SAP Cloud Connector;;
+19;;Concur Technologies;SAP Concur;;
+20;;Infinite Insight (KXEN);Predictive Analytics 2.0;;
+21;;SAP Hybris;C/4 HANA;;
+22;37;SAP/R3;mySAP ERP;;
+23;22;mySAP ERP;SAP ECC;;
+24;23;SAP ECC;S/4 HANA;;
+25;;Simple Finance;S/4HANA Finance;;
+26;;SAP Forum;SAP Now;;
+27;;TDF;ACR;;
+28;27;ACR;TDF;;
+29;;XI;PI;;
+30;29;PO;PRO;;
+31;30;PO;PRO;;
+32;;GRC NFE;SAP Business Objects Nfe;;
+33;32;SAP Business Objects Nfe;SAP Electronic Invoicing for Brazil;;
+34;33;SAP Electronic Invoicing for Brazil;SAP NFE;;
+35;;SAP Workforce Performance Builder;SAP Enable Now;2017;5
+36;2;SAP Cloud Platform;SAP Business Technology Platform;;
+37;38;SAP/R2;SAP/R3;1992;1
+38;;SAP/R1;SAP/R2;1972;1
