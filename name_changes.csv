@@ -35,8 +35,8 @@ id,previous_id,name_from,name_to,year,month
 34,33,SAP Electronic Invoicing for Brazil,SAP NFE,,
 35,,SAP Workforce Performance Builder,SAP Enable Now,2017,5
 36,2,SAP Cloud Platform,SAP Business Technology Platform,,
-37,38,SAP/R2,SAP/R3,1992,1
-38,,SAP/R1,SAP/R2,1972,1
+37,38,SAP R/2,SAP R/3,1992,1
+38,,SAP R/1,SAP R/2,1972,1
 39,,HANA Cloud Integration,SAP Cloud Platform Integration Services,2016,4
 40,39,SAP Cloud Platform Integration Services,SAP Cloud Platform Integration,2020,11
 41,40,SAP Cloud Platform Integration,SAP Integration Suite,2021,10
